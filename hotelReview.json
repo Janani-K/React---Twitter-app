@@ -1,0 +1,19 @@
+{
+    "hotel":[
+        {
+            "hotelName":"Hilton",
+            "location":"Chennai",
+            "ratings":4.5
+        },
+        {
+            "hotelName":"The Park",
+            "location":"Chennai",
+            "ratings":4.9
+        },
+        {
+            "hotelName":"Savera",
+            "location":"Chennai",
+            "ratings":4.3
+        }
+    ]
+}
